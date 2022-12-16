@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.questions-list{
+  text-align: left;
+}
